@@ -54,8 +54,6 @@ CS-4210-02/
 │
 │── Final Project Proposal.docx
 │── README.md
-│── main.py
-│── requirements.txt
 ```
 
 ---

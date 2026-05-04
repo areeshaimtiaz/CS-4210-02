@@ -157,10 +157,3 @@ Logistic Regression performs slightly better overall.
 * Add stopword removal and stemming
 * Try additional models (SVM, Random Forest)
 * Build a web-based interface
-
----
-
-## Author
-
-Areesha Imtiaz
-CS 4210-02 Final Project
